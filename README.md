@@ -1,8 +1,8 @@
 # InventIQ — Inventory & Order Management System
 
-Frontend Hosted URL:-invigorating-growth-production-54da.up.railway.app
+Frontend Hosted URL:- invigorating-growth-production-54da.up.railway.app
 
-Backend API Hosted URL:-ethara-sde-projecct-production.up.railway.app
+Backend API Hosted URL:- ethara-sde-projecct-production.up.railway.app
 
 
 A production-ready, fully containerised full-stack application built with:
